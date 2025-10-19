@@ -24,7 +24,7 @@ div:hover button::after {
   content: "";
   width: 320px;
   height: 20px;
-  background: linear-gradient(#F34423, #A12A13);
+  background: linear-gradient(#213e8c, #1431c0);
   box-shadow: 7px 5px 10px #651708;
   border-top-right-radius: 12px;
   border-bottom-right-radius: 12px;
@@ -43,7 +43,7 @@ div {
 }
   
 div:hover button {
-  transform: rotate(200deg);
+  transform: rotate(360deg);
 }
   
 div:active button {
